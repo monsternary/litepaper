@@ -16,15 +16,16 @@ $MONS powers the circular token economy of Monsternary. It is a non-inflationary
 
 #### MONS Distribution:&#x20;
 
-* 10% Team (locked 4 months, vesting over 30 months)
-* 2% Advisors (locked 6 months, vesting over 36 months)
-* 5% Private sale (vesting over 6 months)
-* 5% IDO 1
-* 5% IDO 2
-* 8% Liquidity
-* 40% Player Reward Pool (Play to Earn)
-* 15% Marketing
-* 10% Strategic Partners (vesting over 36 months)
+* Aidrop for early adopters - **1.5%** (100% TGE)
+* Private sale 1 - **4.5%** (3% TGE cliff 4 months, 12 months equal unlock)
+* Private sale 2 - **4%** (4% TGE cliff 4 months, 12 months equal unlock)
+* Private sale 3 - **2.5%** (5% TGE cliff 4 months, 12 months equal unlock)
+* Public sale - **10%** (10% TGE, 10% monthly from the second month)
+* Dex liquidity - **0.5%** (100% TGE)
+* Team - **15%** (12 month cliff, 10% per month equal)
+* Advisor & Influencer - **1%** (12 month cliff, 10% per month equal)
+* Ingame mechanic - **60%** (48 month cliff)
+* Market Making - **1%** (12 month vesting, 25% per quater)
 
 Initial NFT issuance distribution: 90% public, 10% team, advisors, partners.
 
